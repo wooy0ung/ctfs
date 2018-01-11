@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Jan 11 14:50:33 2018
+Invocation: foremost /Users/wooy0ung/GitHub/ctfs/write-ups-2018/xman-mobile-2018/中二的成长之路/6704c696-0a81-4715-b16c-38a093dadedf.jpg 
+Output directory: /Users/wooy0ung/GitHub/ctfs/write-ups-2018/xman-mobile-2018/中二的成长之路/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: /Users/wooy0ung/GitHub/ctfs/write-ups-2018/xman-mobile-2018/中二的成长之路/6704c696-0a81-4715-b16c-38a093dadedf.jpg
+Start: Thu Jan 11 14:50:33 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      19 KB 	          0 	 
+1:	00000038.zip 	       1 KB 	      19795 	 
+Finish: Thu Jan 11 14:50:33 2018
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Jan 11 14:50:33 2018
